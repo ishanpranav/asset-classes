@@ -1,4 +1,4 @@
-# Summary statistics
+# Asset classes
 
 This is a demonstration of summary statistics and basic data visualization in
 Python for the NYU CSCI 479 Data Management and Analysis course.
