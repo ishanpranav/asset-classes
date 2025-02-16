@@ -19,3 +19,7 @@ of the Federal Reserve System—all available from FRED, the Federal Reserve Ban
 of St. Louis. The project also uses the S&P 500 Index from S&P Dow Jones Indices
 LLC, adjusted for total returns, available from
 [Slickcharts](https://www.slickcharts.com/sp500/returns).
+
+## References
+
+- [How do I plot only a table in Matplotlib? - Stack Overflow](https://stackoverflow.com/questions/32137396/how-do-i-plot-only-a-table-in-matplotlib)
